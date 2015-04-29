@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PS6", "PS6\PS6.csproj", "{7ED25118-D3D8-403A-9014-33F8F2F3D267}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resources", "Resources\Resources.csproj", "{8CCD852E-2A2C-4352-92E9-5A32B9708E8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpreadsheetGUI", "SpreadsheetGUI\SpreadsheetGUI.csproj", "{39537595-B903-4996-91EE-F3BFF3841ED6}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7ED25118-D3D8-403A-9014-33F8F2F3D267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ED25118-D3D8-403A-9014-33F8F2F3D267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ED25118-D3D8-403A-9014-33F8F2F3D267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ED25118-D3D8-403A-9014-33F8F2F3D267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CCD852E-2A2C-4352-92E9-5A32B9708E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CCD852E-2A2C-4352-92E9-5A32B9708E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CCD852E-2A2C-4352-92E9-5A32B9708E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CCD852E-2A2C-4352-92E9-5A32B9708E8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39537595-B903-4996-91EE-F3BFF3841ED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39537595-B903-4996-91EE-F3BFF3841ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39537595-B903-4996-91EE-F3BFF3841ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39537595-B903-4996-91EE-F3BFF3841ED6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
